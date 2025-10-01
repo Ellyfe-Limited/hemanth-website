@@ -53,10 +53,11 @@ export default function Hero() {
           animate="animate"
         >
           <img
-            src="https://mocha-cdn.com/0199984a-423c-76e4-9092-297f48a9e44e/image.png_5991.png"
+            src="/avatar.png"
             alt="Hemanth Kumar Talupula"
             className="w-32 h-32 rounded-full mx-auto border-4 border-white/20 shadow-2xl backdrop-blur-sm"
           />
+
         </motion.div>
 
         <motion.h1
